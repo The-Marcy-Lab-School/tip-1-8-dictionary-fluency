@@ -27,7 +27,7 @@ def who_picked_c(picks):
     return who_picked
 
 
-# A: In who_picked_a, fill in who_picked after each pass through the loop.
+# A: In who_picked_a, fill in who_picked after each iteration through the loop.
 # after "Ana:pho":
 # after "Bo:tacos":
 # after "Sam:pho":
